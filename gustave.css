@@ -311,8 +311,8 @@ a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
 }
 /* BEETLE DUMP */
 .mound-grid img {
-	background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJGahKV76nL1dg7ova7kt2VOc-XX8ujdnLZedTyA_az1w_7X_EI9jd8EYl_w1qtpzZv4GFu4Z8PZh6t7U7y0_0GbQhvfHagjJOUXnzfNa8p13gSznqPJ3m8UMyFK3o2rw0uNT8LBv8Fhm3EmmocdiMRHNQCnOKgLglmGcpYtUrcW6GgUe7kauSIRYjDg/s1061/7.png');
-	opacity: 0.5;
+	background: url('-');
+	opacity: 0;
 	padding-top: 80px;
 	padding-right: 130px;
 }
