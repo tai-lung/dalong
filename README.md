@@ -1,1 +1,1 @@
-this code was made by Scilenci (#79146) at lioden. i gave myself the luxury of changing the background into john martin's artpiece "the great day of his wrath". in addition, i edited the cave covers' pictures and edited some other things too.
+this code was made by Scilenci (#79146) at lioden. i gave myself the luxury of changing the background into john martin's artpiece "the great day of his wrath". in addition, i edited the cave covers' pictures into gustave doré's gravures.
