@@ -1,4 +1,94 @@
+/*
+  CSS by Scilenci (#79146).
+  Lioden Logo by Katie (#106445).
+Borrowed a lot of info from Miko (#116939).
+Background image "The Great Day of His Wrath" by John Martin.
+  Cave covers by Gustave Doré, mainly from Dante's Divine Comedy illustrations.
+*/
 
+body {background: url("https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg");background-repeat: repeat-y;  background-position: center;background-attachment: fixed;background-size: 100%;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Times !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(170, 183, 174, 0.3);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+}
+ 
+/* Topbar */
+ 
+/*
+  CSS by Scilenci (#79146).
+  Lioden Logo by Katie (#106445).
+Borrowed a lot of info from Miko (#116939).
+Background image "The Great Day of His Wrath" by John Martin.
+*/
+
+body {background: url("https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg");background-repeat: repeat-y;  background-position: center;background-attachment: fixed;background-size: 100%;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Times !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(170, 183, 174, 0.3);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+}
+ 
+/* Topbar */
+ 
 .topbar {
 background: rgba(170, 183, 174, 0.3);
 border: 1px solid #000;
