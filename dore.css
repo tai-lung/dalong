@@ -237,40 +237,41 @@ border-left: none;
 /* PREG LIONESSESS */
 div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLnaJgvEZkWou6sRpuP0SLpidvJxtIpCmYX6yEPzO6D9a13xZazZQPnosH0T7stQCGXu2xzq-YCxAR9ORx1uXGmJXChlRCs6xMjlazGEwfSfoyGY9OycTUBZIdLdFpHLeqOA-oZMA31tAo67Jg7bZv3uAOd1Td9qhcJmHLNXFstc5VM_UxLExuFZeXSQ/s1269/14.png')!important;
-	opacity: 0.5;
+	opacity: 0.8;
 }
 /*cave 1 = khajiiti pantheon 1 */
 a[href$="246784"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjndoABRNDabyjQDuOwEARYjA2mZHSZlPMrxcaGmGJ37gUy_1VPuPWcmveecUA1tm3Igcf2Bdj_C2eDT-fTHIzkIzL2GlW21OCXg16v4v0_uRkwYnaFFtsPTw2RcpobHAH4_AET1t-l4uZ-v3T0_vKEYpzCeWykb2-1dPFkAuRiYyhvcaS0ie4q0oNT-A/s1009/16.png')!important;
-	opacity: 0.5;
+	opacity: 0.8;
 }
 /*cave 2 = khajiiti pantheon 2 */
 a[href$="220608"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigSJUqufq-wVW0guHmgMVHcyZnVh_nEwYgDht4C-XuDSfuI-t8q-ReFYFa__7-7sIJpBiCFEuTQQpSDo6MkMPW2hcWLG72mvOkCwX_7BCPd60CLWmu-Xa6Bgxj7QohjmEsT1c4Q6OpwVIGWMnX1Ef1aI07mDWqT_RcKejgh7bltTqKQbgq0cIVrVX1Yw/s735/17.png')!important;
-	opacity: 0.5;
+	opacity: 0.8;
 }
 /*cave 3 = ?
 a[href$="-"]>div.cave-grid>img {
 	content: url('URL')!important;
-	opacity: 0.5;
+	opacity: 0.8;
 }*/
 
 /* UNSORTED LIONS */
 a[href$="unsorted.php?id=280104"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5DLWvmhwCwgNVu8GjP0-EAa7FyTREW6iCLmDW_-jBz1vEEsRuI8spOaQMRKBoCrUbXIuohKPmB6Xnp2fbRFknoVI8BgIqh98vEuMufxPyeWViMLTkBCHizwBv5PBusm0ETnKLli08hgXAr9m-pkKZ6kEO0M9R5rz4xPgGmN2uhJzMr1oBgYtPS1IXQ/s1280/11.png')!important;
+	opacity: 0.8;
 }
 /* LION OVERVIEW*/
 a[href$="lionoverview.php?id=280104"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoKJG4qCwLCQKhdHQjz5JEoYFQ8ijev-G2sWG1MWxjNie1eAMjbAIGKBPX6_Q5ogpOPp_QCkMCJGI9yQhP8A_1A67yVuRuLoTP0rqldlT3YnHm4NX7xHuj-xD6acA22pLDplGkyLzAd2D05d6VqwgC5Jw5XZOOljNCjSR9OTv962q7870sObc_Soe9zg/s1117/13.png')!important;
-	opacity: 0.5;
+	opacity: 0.8;
 }
-/* BEETLE DUMP */
+/* BEETLE DUMP 
 .mound-grid img {
 	background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4VU_xaGCVtcKdOjy57VrLKONxWOQrYCmvQPy3Waa6Tcqzv1YNs-xparhab0h529KIB9VmBiXjuL2aCHDCzCSgGHLEid98PIMN8Ugc-W0Uw2M0VHimTyEu6uifUGJLDupvYsvivb3jj136do_gbDlYtOa6nIfPTu2XBU91ta3lbAV4dMIPYQDhrDNFA/s952/18.png');
-	opacity: 0.5;
+	opacity: 0.8;
 	padding-top: 80px;
 	padding-right: 130px;
-}
+}*/
 
 /*Boxes*/
 .boxcontainer {height: 400px;background: none !important;padding:23px}
