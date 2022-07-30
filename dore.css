@@ -249,11 +249,11 @@ a[href$="220608"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigSJUqufq-wVW0guHmgMVHcyZnVh_nEwYgDht4C-XuDSfuI-t8q-ReFYFa__7-7sIJpBiCFEuTQQpSDo6MkMPW2hcWLG72mvOkCwX_7BCPd60CLWmu-Xa6Bgxj7QohjmEsT1c4Q6OpwVIGWMnX1Ef1aI07mDWqT_RcKejgh7bltTqKQbgq0cIVrVX1Yw/s735/17.png')!important;
 	opacity: 0.8;
 }
-/*cave 3 = ?
-a[href$="-"]>div.cave-grid>img {
-	content: url('URL')!important;
+/*cave 3 = the void*/
+a[href$="258775"]>div.cave-grid>img {
+	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXq9lftpzDlAuw7GVDZJee6OAjbnI8rnubN9Z0EwxwFcQYY7ZEsNNiX6qG8S5rncUcDBIulKuP2Hc9hTbJJ56tvnI2XqfqvZ9yqV58Ksg-T6nmwe_g599L0jUjdB8T3HMNRSW8b4POh4MMCX4kjOyAzZlYNncBfZxq0T9650HmsDiV5GlqCNc6sWpaA/s750/12.png')!important;
 	opacity: 0.8;
-}*/
+}
 
 /* UNSORTED LIONS */
 a[href$="unsorted.php?id=280104"]>div.cave-grid>img {
