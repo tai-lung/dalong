@@ -281,12 +281,12 @@ border-left: none;
 
 /* PREG LIONESSESS */
 div.cave-grid>img {
-	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLnaJgvEZkWou6sRpuP0SLpidvJxtIpCmYX6yEPzO6D9a13xZazZQPnosH0T7stQCGXu2xzq-YCxAR9ORx1uXGmJXChlRCs6xMjlazGEwfSfoyGY9OycTUBZIdLdFpHLeqOA-oZMA31tAo67Jg7bZv3uAOd1Td9qhcJmHLNXFstc5VM_UxLExuFZeXSQ/s1269/14.png')!important;
+	content: url('')!important;
 	opacity: 0.8;
 }
 /*cave 1 = khajiit */
 a[href$="220608"]>div.cave-grid>img {
-	content: url('')!important;
+	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi79tWVcCHQAxqnTReY0Yyc0vFYwNazbds3lumUaGZKRj_Cp7wi_gmShNLsY5Gl3RR8jPJg8XskogMU8mrZ_1M9dDP2Lp9SVB1DIezkPMhp0Q4VSs1y5vG_f8UTeFoEmyYfjIgNyZ3wzwJOXhqd8KuIUOWIduPRPA5nNcylbzOQm1BAx5QHZwbRrg_Ahg/s1080/15.png')!important;
 	opacity: 0.8;
 }
 /*cave 2 = pantheon */
