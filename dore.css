@@ -254,7 +254,6 @@ a[href$="258775"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXq9lftpzDlAuw7GVDZJee6OAjbnI8rnubN9Z0EwxwFcQYY7ZEsNNiX6qG8S5rncUcDBIulKuP2Hc9hTbJJ56tvnI2XqfqvZ9yqV58Ksg-T6nmwe_g599L0jUjdB8T3HMNRSW8b4POh4MMCX4kjOyAzZlYNncBfZxq0T9650HmsDiV5GlqCNc6sWpaA/s750/12.png')!important;
 	opacity: 0.8;
 }
-
 /* UNSORTED LIONS */
 a[href$="unsorted.php?id=280104"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7s7FRoqkuWw8UDcnf9IPK-5QQhJZ7QbpEXtWoINE_jGtow-sGcaw8VZ8N6A5Mm522ObinAuWYCiCUJtfpk6r1FcUE7woJb40wvRANR4zti-rNoobkmKIPVNNEyG-T4GDOKAwcTKxnEly8ohiB4HhzfdwjxSS8oprCblPqBq1M8yC6Xh_oYdboo5gf6g/s1280/imagem_2022-08-13_165846253.png')!important;
@@ -267,7 +266,7 @@ a[href$="lionoverview.php?id=280104"]>div.cave-grid>img {
 }
 /* BEETLE DUMP */
 .mound-grid img {
-	background: url('https://64.media.tumblr.com/4124273a0203530bf6186bec7f40f453/8b98ec058a3bc146-55/s640x960/05da73b4781832c87ee38c1b1550e8f56b2794e3.jpg');
+	background: url('-');
 	opacity: 0.8;
 	padding-top: 80px;
 	padding-right: 130px;
