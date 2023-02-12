@@ -342,15 +342,15 @@ a[href$="lionoverview.php?id=280104"]>div.cave-grid>img {
 }
 a[href$="unsorted-beetles.php?id=280104"]>div.mound-grid>img {
 	content: url('https://64.media.tumblr.com/4124273a0203530bf6186bec7f40f453/8b98ec058a3bc146-55/s640x960/05da73b4781832c87ee38c1b1550e8f56b2794e3.jpg')!important;
-	width: 50%;
-	height: 50%;
+	width: 100%;
+	height: 100%;
 	opacity: 0.8;
 }
 		
 a[href$="mound.php?id=126551"]>div.mound-grid>img {
 	content: url('https://64.media.tumblr.com/ca4f1e3619e526069a2fff5082dfa023/8b98ec058a3bc146-2f/s640x960/cac549c73880a1cd070f2432f4b4cd33026bea81.jpg')!important;
-	width: 50%;
-	height: 50%;
+	width: 100%;
+	height: 100%;
 	opacity: 0.8;
 }
 
