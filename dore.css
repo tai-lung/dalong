@@ -44,6 +44,51 @@ color: #000000;
  
 /* Topbar */
  
+/*
+  CSS by Scilenci (#79146).
+  Lioden Logo by Katie (#106445).
+Borrowed a lot of info from Miko (#116939).
+Background image "The Great Day of His Wrath" by John Martin.
+*/
+
+body {background: url("https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg");background-repeat: repeat-y;  background-position: center;background-attachment: fixed;background-size: 100%;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Times !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(170, 183, 174, 0.3);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+}
+ 
+/* Topbar */
+ 
 .topbar {
 background: rgba(170, 183, 174, 0.3);
 border: 1px solid #000;
@@ -239,21 +284,22 @@ div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLnaJgvEZkWou6sRpuP0SLpidvJxtIpCmYX6yEPzO6D9a13xZazZQPnosH0T7stQCGXu2xzq-YCxAR9ORx1uXGmJXChlRCs6xMjlazGEwfSfoyGY9OycTUBZIdLdFpHLeqOA-oZMA31tAo67Jg7bZv3uAOd1Td9qhcJmHLNXFstc5VM_UxLExuFZeXSQ/s1269/14.png')!important;
 	opacity: 0.8;
 }
-/*cave 1 = khajiiti pantheon 1 */
-a[href$="246784"]>div.cave-grid>img {
+/*cave 1 = khajiit */
+a[href$="220608"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi79tWVcCHQAxqnTReY0Yyc0vFYwNazbds3lumUaGZKRj_Cp7wi_gmShNLsY5Gl3RR8jPJg8XskogMU8mrZ_1M9dDP2Lp9SVB1DIezkPMhp0Q4VSs1y5vG_f8UTeFoEmyYfjIgNyZ3wzwJOXhqd8KuIUOWIduPRPA5nNcylbzOQm1BAx5QHZwbRrg_Ahg/s1080/15.png')!important;
 	opacity: 0.8;
 }
-/*cave 2 = khajiiti pantheon 2 */
-a[href$="220608"]>div.cave-grid>img {
+/*cave 2 = pantheon */
+a[href$="246784"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIGEEmET7UZYLUMikU0B76yraz9ZNVhD2iRLbCFOx2XlmzFXfwse1OKXy-6K8OQKCg8UBhrIrsbS7o88pUDQcTqxJRc-w4VX_CpIrRcbkgIhSrTZg0NHN4dYCrvCak40NC9KTK9YKfNq_YA7ey4eVFrNzLIz5JWzomsWFX8G8LdcxvIkdSLSYsuazYqA/s700/imagem_2022-07-30_180243345.png')!important;
 	opacity: 0.8;
 }
-/*cave 3 = the void*/
+/*cave 3 = void */
 a[href$="258775"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXq9lftpzDlAuw7GVDZJee6OAjbnI8rnubN9Z0EwxwFcQYY7ZEsNNiX6qG8S5rncUcDBIulKuP2Hc9hTbJJ56tvnI2XqfqvZ9yqV58Ksg-T6nmwe_g599L0jUjdB8T3HMNRSW8b4POh4MMCX4kjOyAzZlYNncBfZxq0T9650HmsDiV5GlqCNc6sWpaA/s750/12.png')!important;
 	opacity: 0.8;
 }
+
 /* UNSORTED LIONS */
 a[href$="unsorted.php?id=280104"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7s7FRoqkuWw8UDcnf9IPK-5QQhJZ7QbpEXtWoINE_jGtow-sGcaw8VZ8N6A5Mm522ObinAuWYCiCUJtfpk6r1FcUE7woJb40wvRANR4zti-rNoobkmKIPVNNEyG-T4GDOKAwcTKxnEly8ohiB4HhzfdwjxSS8oprCblPqBq1M8yC6Xh_oYdboo5gf6g/s1280/imagem_2022-08-13_165846253.png')!important;
@@ -264,13 +310,13 @@ a[href$="lionoverview.php?id=280104"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_d6uNKuxNxzdlWfXzjMD1NvDWFQgp_e_UlSHDWp5NrjPOMFnCZgdB_m99JIPM0w3Gs-p_CL8SA8KN4Z72I0aNNmjYONn95p5G4YMCltgykfj5BLIZSCto826A6kGjlDj2EPJmrIhe4nCnupp4SQdxymSD_7XiQHfADl_dX9iJ_quwZrc06rh0lDK9g/s1117/imagem_2022-08-13_163402571.png')!important;
 	opacity: 0.8;
 }
-/* BEETLE DUMP */
+/* BEETLE DUMP 
 .mound-grid img {
 	background: url('-');
 	opacity: 0.8;
 	padding-top: 80px;
 	padding-right: 130px;
-}
+}*/
 
 /*Boxes*/
 .boxcontainer {height: 400px;background: none !important;padding:23px}
