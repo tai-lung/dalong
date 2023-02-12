@@ -265,13 +265,13 @@ a[href$="lionoverview.php?id=280104"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_d6uNKuxNxzdlWfXzjMD1NvDWFQgp_e_UlSHDWp5NrjPOMFnCZgdB_m99JIPM0w3Gs-p_CL8SA8KN4Z72I0aNNmjYONn95p5G4YMCltgykfj5BLIZSCto826A6kGjlDj2EPJmrIhe4nCnupp4SQdxymSD_7XiQHfADl_dX9iJ_quwZrc06rh0lDK9g/s1117/imagem_2022-08-13_163402571.png')!important;
 	opacity: 0.8;
 }
-/* BEETLE DUMP 
+/* BEETLE DUMP */
 .mound-grid img {
-	background: url('-');
+	background: url('https://64.media.tumblr.com/4124273a0203530bf6186bec7f40f453/8b98ec058a3bc146-55/s640x960/05da73b4781832c87ee38c1b1550e8f56b2794e3.jpg');
 	opacity: 0.8;
 	padding-top: 80px;
 	padding-right: 130px;
-}*/
+}
 
 /*Boxes*/
 .boxcontainer {height: 400px;background: none !important;padding:23px}
