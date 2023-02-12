@@ -19,6 +19,29 @@ color: #000;
 border-bottom: 1px solid #000;
 }
 
+/* LINK COLOR */
+
+a:link,
+a:visited {
+	color: #000000 !important
+}
+
+/* LINK HOVER COLOR */
+
+a:hover {
+	color: #0000de !important
+}
+
+/* LION AND USER AVATAR OPACITY */
+
+div#lion_image {
+	opacity: 0.8
+}
+
+table#player img {
+	opacity: 0.8
+}
+
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(170, 183, 174, 0.3);
