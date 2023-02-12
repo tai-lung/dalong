@@ -68,13 +68,13 @@ border-bottom: 1px solid #000;
 
 a:link,
 a:visited {
-	color: #0000de !important
+	color: #000000 !important
 }
 
 /* LINK HOVER COLOR */
 
 a:hover {
-	color: #000000 !important
+	color: #0000de !important
 }
 
 /* LION AND USER AVATAR OPACITY */
