@@ -338,8 +338,6 @@ a[href$="lionoverview.php?id=280104"]>div.cave-grid>img {
 	background: url("https://64.media.tumblr.com/4124273a0203530bf6186bec7f40f453/8b98ec058a3bc146-55/s640x960/05da73b4781832c87ee38c1b1550e8f56b2794e3.jpg");
 	width: 25%;
 	height: 25%;
-	padding-top: 80px;
-	padding-right: 130px;
 	opacity: 0.8;
 }
 a[href$="mound.php?id=126551"]>div.mound-grid>img {
@@ -347,8 +345,6 @@ a[href$="mound.php?id=126551"]>div.mound-grid>img {
 	width: 25%;
 	height: 25%;
 	opacity: 0.8;
-	padding-right: 130px;
-	padding-top: 80px;
 }
 
 /*Boxes*/
