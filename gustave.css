@@ -38,6 +38,10 @@ div#lion_image {
 	opacity: 0.8
 }
 
+div#lion_image:hover {
+	opacity: 1
+}
+
 table#player img {
 	opacity: 0.8
 }
